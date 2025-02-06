@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\Advanced\\dlt_CV sender email\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|d:\\backend\\advanced\\dlt_cv sender email\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|D:\\Backend\\Advanced\\dlt_CV sender email\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|D:\\Backend\\Advanced\\dlt_CV sender email\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|D:\\Backend\\Advanced\\dlt_CV sender email\\exceptions\\invalidextentionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:exceptions\\invalidextentionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|D:\\Backend\\Advanced\\dlt_CV sender email\\exceptions\\bigsizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:exceptions\\bigsizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|D:\\Backend\\Advanced\\dlt_CV sender email\\enums\\filestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1581998-3BC1-490F-A1DB-A4A64BBF6233}|dlt_CV sender email.csproj|solutionrelative:enums\\filestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:31:28.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileStatus.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Enums\\FileStatus.cs",
+              "RelativeDocumentMoniker": "Enums\\FileStatus.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Enums\\FileStatus.cs",
+              "RelativeToolTip": "Enums\\FileStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:59:10.562Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BigSizeException.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Exceptions\\BigSizeException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\BigSizeException.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Exceptions\\BigSizeException.cs",
+              "RelativeToolTip": "Exceptions\\BigSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:40:00.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidExtentionException.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Exceptions\\InvalidExtentionException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidExtentionException.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Exceptions\\InvalidExtentionException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidExtentionException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:35:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MailController.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Controllers\\MailController.cs",
+              "RelativeToolTip": "Controllers\\MailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:18:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "D:\\Backend\\Advanced\\dlt_CV sender email\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "Services\\MailService.cs",
+              "ToolTip": "D:\\Backend\\Advanced\\dlt_CV sender email\\Services\\MailService.cs",
+              "RelativeToolTip": "Services\\MailService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:12:14.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

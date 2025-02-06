@@ -1,0 +1,32 @@
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\appsettings.Development.json
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\appsettings.json
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\dlt_CV sender email.exe
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\dlt_CV sender email.deps.json
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\dlt_CV sender email.runtimeconfig.json
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\dlt_CV sender email.dll
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\dlt_CV sender email.pdb
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backend\Advanced\dlt_CV sender email\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.csproj.AssemblyReference.cache
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.AssemblyInfoInputs.cache
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.AssemblyInfo.cs
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.csproj.CoreCompileInputs.cache
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.MvcApplicationPartsAssemblyInfo.cs
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets\msbuild.dlt_CV sender email.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets\msbuild.build.dlt_CV sender email.props
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.dlt_CV sender email.props
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.dlt_CV sender email.props
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\scopedcss\bundle\dlt_CV sender email.styles.css
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV s.33134A6F.Up2Date
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.dll
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\refint\dlt_CV sender email.dll
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.pdb
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\dlt_CV sender email.genruntimeconfig.cache
+D:\Backend\Advanced\dlt_CV sender email\obj\Debug\net8.0\ref\dlt_CV sender email.dll
